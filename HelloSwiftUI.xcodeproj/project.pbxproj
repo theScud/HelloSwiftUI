@@ -13,6 +13,7 @@
 		0EECAD9D263E6EBA00EF3D27 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0EECAD9C263E6EBA00EF3D27 /* Preview Assets.xcassets */; };
 		0EECADA8263E6EBA00EF3D27 /* HelloSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EECADA7263E6EBA00EF3D27 /* HelloSwiftUITests.swift */; };
 		0EECADB3263E6EBA00EF3D27 /* HelloSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EECADB2263E6EBA00EF3D27 /* HelloSwiftUIUITests.swift */; };
+		0EECADC1263EB43B00EF3D27 /* WallPaperModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EECADC0263EB43B00EF3D27 /* WallPaperModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		0EECADAE263E6EBA00EF3D27 /* HelloSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EECADB2263E6EBA00EF3D27 /* HelloSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloSwiftUIUITests.swift; sourceTree = "<group>"; };
 		0EECADB4263E6EBA00EF3D27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0EECADC0263EB43B00EF3D27 /* WallPaperModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WallPaperModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				0EECAD99263E6EBA00EF3D27 /* Assets.xcassets */,
 				0EECAD9E263E6EBA00EF3D27 /* Info.plist */,
 				0EECAD9B263E6EBA00EF3D27 /* Preview Content */,
+				0EECADC0263EB43B00EF3D27 /* WallPaperModel.swift */,
 			);
 			path = HelloSwiftUI;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				0EECAD98263E6EB800EF3D27 /* ContentView.swift in Sources */,
 				0EECAD96263E6EB800EF3D27 /* HelloSwiftUIApp.swift in Sources */,
+				0EECADC1263EB43B00EF3D27 /* WallPaperModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
